@@ -57,6 +57,10 @@ A live, production mobile recharge and utility top-up platform — available on 
 
 I worked as the backend developer and architect on this project, responsible for the API, payment infrastructure, and third-party integrations.
 
+**Admin Panel**
+- Built a full-featured admin dashboard covering complete CRUD operations 
+  for users, transactions, orders, and platform configuration — giving the 
+  business team full control over the platform without touching the codebase
 **Payment Infrastructure**
 - Designed the `PaymentService` using the Strategy pattern to normalize responses, handle webhooks, and process payment inquiries across all 5 gateways into a single standardized transaction flow — regardless of which provider the user pays through
 
