@@ -13,7 +13,7 @@
 </p>
 
 A live, production mobile recharge and utility top-up platform — available on iOS, Android, and web. The entire backend was designed, built, and deployed to a VPS by me solo in 3.5 months. It powers high-volume transactions, integrates multiple telecom APIs, and processes payments across five distinct payment gateways including Apple Pay and Google Pay.
-
+Actively serving **10,000+ users** across iOS and Android.
 ---
 
 ## 🚀 Tech Stack
